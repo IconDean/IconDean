@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IconDean
-- 👀 Mobile app development and Website development are my cool spots😎 
+- 👀 Mobile app development and Cloud Architecture are my cool spots😎 
 - 🌱 I’m currently learning JavaScript, Java and Python✌🏽
-- 💞️ I’m looking to collaborate on open source projects relating to my interest in E-commerce and helping people. 
-- 📫 You can reach me through WhatsApp:+2348185920759 or my tel: 09153860312
+- 💞️ I’m looking to collaborate on open source projects relating to cloud, apps, and health and helping people. 
+- 📫 You can reach me through deanthekingbee@gmail.com
 Looking forward to partnering with you 😀 
 
 <!---
